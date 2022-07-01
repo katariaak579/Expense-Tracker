@@ -1,16 +1,12 @@
-# planning_app
+# Expense Tracker
 
-A new Flutter project.
+An App build to keep expenses record build using Dart Language and flutter as Framework
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+1. It is a user friendly app build as a personal expense notebook. 
+2. It has a user interface easy to use and allows a visual representaion of your deposits through a chart to show your daily expense in a week.
+3. You can add and delete expenses as per your wish
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
